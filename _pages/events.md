@@ -155,7 +155,7 @@ permalink: /events/
   
   <!-- Event 3: BYOP (Bring Your Own Project) -->
   <div class="event-card">
-    <img src="{{ site.baseurl }}/assets/images/events/BYOP.png" alt="BYOP">
+    <img src="{{ site.baseurl }}/assets/images/events/BYOP_26.png" alt="BYOP">
     <h3>Bring Your Own Project</h3>
     <p>A unique event where participants bring their own tech projects for a chance to showcase, build and get feedback from DSG members to have a chance at getting recruited into DSG.</p>
     <div class="event-links">
@@ -164,25 +164,25 @@ permalink: /events/
   </div>
   </div>
 
-    <!-- Event 4: BH (Beginners' Hypothesis) -->
+  <!-- Event 4: BH (Beginners' Hypothesis) -->
 
   <div class="event-card">
-    <img src="{{ site.baseurl }}/assets/images/events/BH.png" alt="BYOP">
+    <img src="{{ site.baseurl }}/assets/images/events/BH_26.png" alt="BYOP">
     <h3>Beginner's Hypothesis</h3>
     <p>A Kaggle based challenge for Sophomores and Freshers where participants wrack their brains to climb up the leaderboard in order to secure direct interviews for DSG recruitments.</p>
     <div class="event-links">
-      <a href="https://www.instagram.com/p/DEiMi1ThHQW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Details</a>
+      <a href="https://www.instagram.com/p/DTSA1IGEWzf/?utm_source=ig_web_button_share_sheet" target="_blank">Details</a>
 
   </div>
   </div>
 
   <!-- Event 5: Blogathon -->
   <div class="event-card">
-    <img src="{{ site.baseurl }}/assets/images/events/Blogathon.png" alt="Blogathon">
+    <img src="{{ site.baseurl }}/assets/images/events/Blogathon_26.png" alt="Blogathon">
     <h3>Blogathon</h3>
     <p>Participants write fascinating blogs on a variety of tech topics with a chance to secure direct interviews for DSG recruitments.</p>
     <div class="event-links">
-      <a href="https://www.instagram.com/p/DE8_DhvPy6h/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Details</a>
+      <a href="https://www.instagram.com/p/DTne9vqEm_j/?utm_source=ig_web_button_share_sheet" target="_blank">Details</a>
 
   </div>
   </div>
