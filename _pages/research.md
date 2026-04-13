@@ -142,11 +142,11 @@ layout: splash
 
   <!-- Paper 12 -->
   <!-- venue unknown -->
-  <div class="research-card" data-conf="unknown">
+  <div class="research-card" data-conf="arxiv">
     <img src="{{ site.baseurl }}/assets/images/research/DINOHash.png" alt="Paper 12">
     <h3>DINOHash: Learning Adversarially Robust Perceptual Hashes from Self-Supervised Features</h3>
     <p>An open-source framework for robust perceptual image hashing, DINOHash enables secure and transformation-resilient provenance detection of AI-generated images.</p>
-    <!-- <span class="conf-tag unknown">Venue Unknown</span> -->
+    <span class="conf-tag arxiv">ArXiv</span>
     <div class="research-links">
       <a href="https://openreview.net/pdf?id=HrGa8Mq2NE" target="_blank">Paper</a>
     </div>
@@ -188,11 +188,11 @@ layout: splash
 
   <!-- Paper 8 -->
   <!-- venue unknown -->
-  <div class="research-card" data-conf="unknown">
+  <div class="research-card" data-conf="arxiv">
     <img src="{{ site.baseurl }}/assets/images/research/ReCUDA.png" alt="Paper 8">
     <h3>[Re] CUDA: Curriculum of Data Augmentation for Long‐tailed Recognition</h3>
     <p>Using classwise degree of data augmentation to tackle class imbalance in long tailed dataset</p>
-    <!-- <span class="conf-tag unknown">Venue Unknown</span> -->
+    <span class="conf-tag arxiv">ArXiv</span>
     <div class="research-links">
       <a href="https://openreview.net/forum?id=Wm6d44I8St" target="_blank">Paper</a>
       <a href="https://github.com/whitewhistle/CUDA-org-" target="_blank">GitHub</a>
@@ -201,11 +201,11 @@ layout: splash
 
   <!-- Paper 7 -->
   <!-- venue unknown -->
-  <div class="research-card" data-conf="unknown">
+  <div class="research-card" data-conf="arxiv">
     <img src="{{ site.baseurl }}/assets/images/research/RiemannSum.png" alt="Paper 7">
     <h3>Riemann Sum Optimization for Accurate Integrated Gradients Computation</h3>
     <p>A mathematical framework to reduce computational complexity of Integrated Gradients</p>
-    <!-- <span class="conf-tag unknown">Venue Unknown</span> -->
+    <span class="conf-tag arxiv">ArXiv</span>
     <div class="research-links">
       <a href="https://arxiv.org/abs/2410.04118" target="_blank">Paper</a>
       <a href="https://github.com/ShreeSinghi/RiemannOpt" target="_blank">GitHub</a>
@@ -226,11 +226,12 @@ layout: splash
 
   <!-- Paper 5 -->
   <!-- venue unknown -->
-  <div class="research-card" data-conf="unknown">
+  <div class="research-card" data-conf="arxiv">
     <img src="{{ site.baseurl }}/assets/images/research/randomisedsmoothing.png" alt="Paper 5">
     <h3>Rethinking Randomized Smoothing from the Perspective of Scalability</h3>
     <p>A study on randomized smoothing, analysed from the perspective of scalability as a challenge to its continued application</p>
     <!-- <span class="conf-tag unknown">Venue Unknown</span> -->
+    <span class="conf-tag arxiv">ArXiv</span>
     <div class="research-links">
       <a href="https://openreview.net/forum?id=zkzo72ZQqF" target="_blank">Paper</a>
       <a href="https://github.com/yourrepo4" target="_blank">GitHub</a>
@@ -275,11 +276,11 @@ layout: splash
 
   <!-- Paper 1 -->
   <!-- venue unknown -->
-  <div class="research-card" data-conf="unknown">
+  <div class="research-card" data-conf="arxiv">
     <img src="{{ site.baseurl }}/assets/images/research/LanguageGuidance.png" alt="Paper 1">
     <h3>Impact of Language Guidance: A Reproducibility Study</h3>
     <p>A reproducability study of Language guidance on self-supervised learning frameworks</p>
-    <!-- <span class="conf-tag unknown">Venue Unknown</span> -->
+    <span class="conf-tag arxiv">ArXiv</span>
     <div class="research-links">
       <a href="https://openreview.net/forum?id=qTDDGHvXiU&referrer=%5Bthe%20profile%20of%20Cherish%20Puniani%5D(%2Fprofile%3Fid%3D~Cherish_Puniani1)" target="_blank">Paper</a>
       <a href="https://github.com/dsgiitr/repo" target="_blank">GitHub</a>
