@@ -12,7 +12,7 @@ layout: single
 
 ## About Me
 
-Hello, I'm Phantom, a first year student exploring Deep learning
+Hello, I'm Phantom, a first year student exploring Deep learning.
 
 ## Education  
 - **B.Tech**, Chemical Engineering, IIT Roorkee (2026–2029) 
