@@ -1,5 +1,5 @@
 ---
-title: ""s
+title: ""
 permalink: /members/vedansh
 layout: single
 ---
