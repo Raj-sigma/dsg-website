@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/vedansh
+permalink: /members/vedanshSethi
 layout: single
 ---
 
