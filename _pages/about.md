@@ -235,6 +235,10 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/shreyansh">Shreyansh Modi</a></h3>
       </div>
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/soham.png" alt="Soham Gawand" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/soham">Soham Gawand</a></h3>
+      </div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y25/srijan.jpg" alt="Srijan Tiwari" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/srijan">Srijan Tiwari</a></h3>
       </div>
@@ -252,9 +256,9 @@ layout: splash
       </div>
       -->
       <div class="member-card">
-  <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-  <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
-</div>
+      <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" alt="Your Full Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+      <h3><a href="{{ site.baseurl }}/members/harshit_agrawal">Harshit Agrawal</a></h3>
+      </div>
       <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/parambrata">Parambrata Sinha</a></h3>
@@ -264,15 +268,16 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/parth_brijpuria">Parth Brijpuria</a></h3>
       </div>
       <div class="member-card">
+  <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+  <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
+</div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/vedanshSethi">Vedansh Sethi</a></h3>
       </div>
     </div>
   </div>
-<div class="member-card">
-  <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpg" alt="Your Full Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-  <h3><a href="{{ site.baseurl }}/members/harshit_agrawal">Harshit Agrawal</a></h3>
-</div>
+
 
   <!-- Alumni (Y22 & Earlier) -->
   <div class="year-section">
