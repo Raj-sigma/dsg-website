@@ -155,6 +155,11 @@ layout: splash
         <img src="{{ site.baseurl }}/assets/images/members/y24/abhivansh.jpeg" alt="Abhivansh Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/abhivanshgupta">Abhivansh Gupta</a></h3>
       </div>
+      <div class="member-card">         
+      <img src="{{ site.baseurl }}/assets/images/members/y24/abhinav.png" alt="Abhinav Kumar" 
+        onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/abhinavkumar">Abhinav Kumar</a></h3>
+      </div>
       <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y24/advika.jpeg" alt="Advika Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/advika">Advika Sinha</a></h3>
