@@ -1,9 +1,3 @@
-
-30 changes: 30 additions & 0 deletions 30
-_members/y26/vedanshSethi.md
-Copied!
-Original file line number 	Diff line number 	Diff line change
-@@ -0,0 +1,30 @@
 ---
 title: ""s
 permalink: /members/vedansh
