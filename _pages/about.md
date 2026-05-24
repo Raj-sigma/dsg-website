@@ -224,6 +224,10 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/gaurav">Gaurav Kumar</a></h3>
       </div>
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/gowri.jpg" alt="Gowri D V" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/gowri">Gowri D V</a></h3>
+      </div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y25/laabhanvi.jpg" alt="Laabhanvi Jain" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/laabhanvi">Laabhanvi Jain</a></h3>
       </div>
@@ -246,10 +250,6 @@ layout: splash
       <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y25/srijan.jpg" alt="Srijan Tiwari" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/srijan">Srijan Tiwari</a></h3>
-      </div>
-      <div class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/gowri.jpg" alt="Gowri D V" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-        <h3><a href="{{ site.baseurl }}/members/gowri">Gowri D V</a></h3>
       </div>
     </div>
   </div>
