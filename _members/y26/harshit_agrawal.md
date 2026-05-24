@@ -1,12 +1,12 @@
 ---
 title: ""
-permalink: /members/y26/harshit_agrawal
+permalink: /members/harshit_agrawal
 layout: single
 ---
 
 # Harshit Agrawal
 
-<img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpg" width="200" height="200" alt="Harshit Agrawal">
+<img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" width="200" height="200" alt="Harshit Agrawal">
 
 *Core Member*
 
