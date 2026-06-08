@@ -260,7 +260,7 @@ permalink: /events/
 
 <!-- Event 7: SRISHTI TECHNICAL EXHIBITIION 2026-->
   <div class="event-card">
-    <img src="{{ site.baseurl }}/assets/images/events/srishti_DSG_2026.jpeg alt="Srishti 2026 Collab">
+    <img src="{{ site.baseurl }}/assets/images/events/srishti_DSG_2026.jpeg" alt="Srishti 2026 Collab">
     <h3>DSG Showcase at Srishti: Leading Research and Live AI</h3>
     <p>Srishti's Tech Exhibition for 2026 where we presented our research papers accepted at top tier conferences global conferences and did a live demonstration of our flagship and new projects.</p>
     <div class="event-links">
