@@ -6,13 +6,13 @@ layout: single
 
 # Sarthak Bhatia
 
-<img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpg" width="200" height="200" alt="Sarthak Bhatia">
+<img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpeg" width="200" height="200" alt="Sarthak Bhatia">
 
 *Core Member, DSG IIT Roorkee*
 
 ## About Me
 
-I have some interest in a lot of fields, currently trying ai/ml.
+Trying to explore and work towards my interest of math and logic through AI.
 
 ## Skills
 
