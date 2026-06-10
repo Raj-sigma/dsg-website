@@ -230,6 +230,10 @@ layout: splash
   <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
 </div>
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/tanush_gupta.jpg" alt="Tanush Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/tanush_gupta">Tanush Gupta</a></h3>
+      </div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/vedanshSethi">Vedansh Sethi</a></h3>
       </div>
