@@ -12,7 +12,7 @@ layout: single
 
 ## About Me
 
-I'm a first year student at IIT Roorkee. I like to explore stuff a lot and I'm generally interested in cool applications of technology
+I'm a second year student at IIT Roorkee. I like to explore stuff a lot and I'm generally interested in cool applications of technology
 
 ## Skills
 
