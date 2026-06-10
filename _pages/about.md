@@ -222,7 +222,7 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/parambrata">Parambrata Sinha</a></h3>
       </div>
       <div class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.png" alt="Sarthak Bhatia" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpeg" alt="Sarthak Bhatia" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/Sarthak">Sarthak Bhatia</a></h3>
       </div>
       <div class="member-card">
